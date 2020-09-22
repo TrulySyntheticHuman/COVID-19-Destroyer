@@ -7,7 +7,7 @@
 
 <!-- versionCode is optional and Android only -->
 
-    <preference name="COVID-19 Destroyer" value="29" />
+
     <name>COVID-19 Destroyer</name>
 
   <description>
@@ -19,5 +19,6 @@
   </author>
   
   <icon src="icon.png" />
+  <preference name="android-minSkdVersion" value="29" />
 
 </widget>
