@@ -23,7 +23,7 @@
   <platform name="android">
       <allow-intent href="market:*" />
       <preference name="android-minSdkVersion"  value="26" />
-    <preference name="android-targetSdkVersion" value="29"/>
+      <preference name="android-targetSdkVersion" value="29"/>
   </platform>
 
 </widget>
